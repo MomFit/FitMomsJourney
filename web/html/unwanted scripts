@@ -1,0 +1,699 @@
+<div class="services services-bottom wthree-sub">
+		<div class="container">
+			<div class="services_bottom_grid_left1">
+				<img src="images/4.png" alt=" " class="img-responsive"/>
+			</div>
+			<div class="col-sm-6 col-xs-5 services_bottom_grid_left">
+				
+			</div>
+			<div class="col-sm-6 col-xs-7 services_bottom_grid_right">
+				<h3 class="agileits-title w3title2">Why <span>survey ?</span></h3>  
+				<div class="skillbar" data-percent="70">
+				  <span class="skillbar-title" style="background: #f1703a;">Customization (70%)</span>
+				  <p class="skillbar-bar" style="background: #f88c5e;"></p>
+				  <span class="skill-bar-percent"></span>
+				</div>
+				<!-- End Skill Bar -->
+				
+				<div class="skillbar" data-percent="50">
+				  <span class="skillbar-title" style="background: #2980b9;">Engagement (50%)</span>
+				  <p class="skillbar-bar" style="background: #3498db;"></p>
+				  <span class="skill-bar-percent"></span>
+				</div>
+				<!-- End Skill Bar -->
+				
+				<div class="skillbar" data-percent="60">
+				  <span class="skillbar-title" style="background: #a0d034;">Sustainability (60%)</span>
+				  <p class="skillbar-bar" style="background: #b2ec2f;"></p>
+				  <span class="skill-bar-percent"></span>
+				</div>
+				<!-- End Skill Bar -->
+				
+				<div class="skillbar" data-percent="45">
+				  <span class="skillbar-title" style="background: #e7cc2c;">Motivation (45%)</span>
+				  <p class="skillbar-bar" style="background: #f5d410;"></p>
+				  <span class="skill-bar-percent"></span>
+				</div>
+				<!-- End Skill Bar -->
+				<!-- skills -->
+				<script src="js/skill.bars.jquery.js"></script>
+				<script>
+					$(document).ready(function(){
+						
+						$('.skillbar').skillBars({
+							from: 0,
+							speed: 4000, 
+							interval: 100,
+							decimals: 0,
+						});
+						
+					});
+				</script>
+				<br>
+				<p align="justify"><br><br>Embrace the power of personalization: Witness impressive gains in success (70%), engagement (50%), sustainability (60%), and motivation (45%) compared to traditional one-size-fits-all approaches. Elevate your wellness journey by embracing your uniqueness.</p>
+				<!-- //skills --> 
+			</div>
+			<div class="clearfix"> </div>
+		</div> 
+	</div>
+
+
+
+
+	-------
+
+
+	<a href="javascript:void(window.open('https://form.jotform.com/230943786180058', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500')) ">Form </a>
+
+
+-------
+
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>MoMFit | Survey </title> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="MOMFIT Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	SmartPhone Compatible web template" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all">  
+<link href="css/font-awesome.css" rel="stylesheet">   <!-- font-awesome icons --> 
+<link href="css/wickedpicker.css" rel="stylesheet" type='text/css' media="all" />  <!-- time-picker-CSS -->
+<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- Calendar-CSS -->
+<!-- //Custom Theme files -->
+<!-- js -->
+<script src="js/jquery-2.2.3.min.js"></script> 
+<!-- //js -->
+<!-- web-fonts -->
+<link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!-- //web-fonts --> 
+</head> 
+	<!-- banner --> 
+	<div class="jarallax about-w3banner">    
+		<!-- header --> 
+		<div class="w3header">
+			<div class="container">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<h1><a  href="index.html"> momfit </a></h1> 
+					</div>
+					<!-- navbar-header -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="index.html" class="active">Home</a></li>
+							<li><a href="lifestyle.html">Fitness / Lifestyle</a></li> 
+							<li><a href="portfolio.html">Childcare</a></li>
+							<li><a href="contact.html">Time Management Tools</a></li>
+							<li><a href="contact.html">Resources and support</a></li>
+							<li><a href="contact.html">SHE - Insights</a></li>
+						</ul> 
+						<div class="clearfix"> </div>	
+					</div>
+				</nav>
+			</div>  
+		</div>
+		<!-- //header -->   
+	</div>	 
+	<!-- //banner -->  
+	<!-- single -->
+	<div class="single about">
+		<div class="container">
+			<h2 class="agileits-title">Survey</h2> 
+			<div class="wthree_single_grid">
+				<h4>Discover & Embrace Your Traits: Take our insightful survey to seamlessly align your unique characteristics with tailored fitness goals, enhancing your wellness journey.</h4>
+				
+			</div> 
+			<div class="wthree_single_grid1">
+				<img src="images/g1.png" alt="" class="img-responsive agile_single_img" />
+				<p>"Embark on Our Unveiling Survey: Delve into the heart of your unique qualities and strengths as we 
+					help you uncover a fitness journey tailored exclusively for you. Together, let's explore your 
+					wellness potential and unlock the secret to a happier, healthier you!"</p>
+				
+			</div> 
+			<section id = "survey">
+				<div>
+					<script type="text/javascript" src="https://form.jotform.com/jsform/230943786180058"></script>
+
+				</div>
+			</section>
+			<div class="popular-posts">
+				<h4 class="w3ls-title">Popular Posts</h4>
+				<div class="popular-posts-grids">
+					<div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">	
+						<div class="popular-posts-grid1">
+							<a href="single.html"><img src="images/g3.jpg" alt=" " class="img-responsive"></a>
+							<h4><a href="single.html">dolori perior</a></h4>
+							<p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">	
+						<div class="popular-posts-grid1">
+							<a href="single.html"><img src="images/g4.jpg" alt=" " class="img-responsive"></a>
+							<h4><a href="single.html">rerum tenetur</a></h4>
+							<p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">	
+						<div class="popular-posts-grid1">
+							<a href="single.html"><img src="images/g5.jpg" alt=" " class="img-responsive"></a>
+							<h4><a href="single.html">saepe eveniet </a></h4>
+							<p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">	
+						<div class="popular-posts-grid1">
+							<a href="single.html"><img src="images/g6.jpg" alt=" " class="img-responsive"></a>
+							<h4><a href="single.html">ipsum tenetur</a></h4>
+							<p>Itaque earum rerum hic tenetur a sapiente delectus.</p>
+						</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<div class="author">
+				<h4 class="w3ls-title"> About Admin </h4>
+				<div class="author-grid">
+					<div class="author-grid-left">
+						<img src="images/img10.jpg" alt=" " class="img-responsive">
+					</div>
+					<div class="author-grid-right">
+						<h4><a href="#">Vaura Tegsner</a></h4>
+						<p>Nam libero tempore, cum soluta nobis est eligendi optio 
+							cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis 
+							voluptas assumenda est.</p> 
+						<div class="social-wthree-icons">
+							<ul>
+								<li><a href="#" class="fa fa-facebook icon icon-border facebook"> </a></li>
+								<li><a href="#" class="fa fa-twitter icon icon-border twitter"> </a></li>
+								<li><a href="#" class="fa fa-google-plus icon icon-border googleplus"> </a></li>
+								<li><a href="#" class="fa fa-dribbble icon icon-border dribbble"> </a></li> 
+							</ul>
+							<div class="clearfix"> </div>
+						</div> 
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<div class="write-reply">
+				<h4 class="w3ls-title">Write a Comment</h4>
+				<form action="#" method="post"> 
+					<input type="text" name="Name" placeholder="Name"  required="">
+					<input type="email" name="Email" placeholder="Email" required=""> 
+					<textarea name="Comment" placeholder="Write a comment here..." required=""></textarea>
+					<input type="submit" value="Send">
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- //single -->    
+	<!-- reservation -->
+	<div class="reservation-info jarallax"> 
+		<div class="reservation">
+			<div class="container">			
+				<h3 class="agileits-title w3title2">Make a Reservation</h3>  
+				<div class="book-reservation">
+					<form action="#" method="post">  
+						<div class="col-md-4 form-left">
+							<label><i class="glyphicon glyphicon-calendar"></i> Date :</label>
+							<input type="text" class="date" id="datepicker" name="date" placeholder="Date" required="">
+						</div>
+						<div class="col-md-4 form-left">
+							<label><i class="glyphicon glyphicon-user"></i> No.of People :</label>
+							<select class="form-control">
+								<option>1 Person</option>
+								<option>2 People</option>
+								<option>3 People</option>
+								<option>4 People</option>
+								<option>5 People</option>
+								<option>More</option>
+							</select>
+						</div>
+						<div class="col-md-4 form-right">
+							<label><i class="glyphicon glyphicon-time"></i> Time :</label>
+							<input type="text" name="Time" class="timepicker" placeholder="Time" required="">
+						</div>
+						<div class="clearfix"> </div>
+						<div class="make">
+							<input type="submit" value="Make a Reservation">
+						</div>
+					</form> 
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>	
+	<!-- //reservation -->
+	<!-- Time select -->
+	<script type="text/javascript" src="js/wickedpicker.js"></script>
+	<script type="text/javascript">
+		$('.timepicker').wickedpicker({twentyFour: false});
+	</script>
+	<!-- //Time select --> 
+	<!-- Calendar --> 
+	<script src="js/jquery-ui.js"></script>
+	<script>
+	$(function() {
+		$( "#datepicker" ).datepicker();
+	});
+	</script> 
+	<!-- //Calendar --> 
+	<!-- footer -->
+	<div class="footer">
+		<div class="container">
+			<div class="col-md-4 footer-grids">
+				<h3>Review</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sheets containing lorem lpsum passages sed do consectetur adipisicing elit.</p>
+			</div> 
+			<div class="col-md-3 footer-grids"> 
+				<h3>Contact Me</h3>
+				<p>123 NewYork City USA.<br>
+					<span>Office: 908-0000</span>
+					<span>Support to: <a href="mailto:info@example.com">mail@example.com</a></span>
+				</p>
+			</div>
+			<div class="col-md-5 footer-grids">
+				<h3>Subscribe</h3>
+				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
+				<form action="#" method="post">
+					<input type="email" name="email" placeholder="Enter your email" required="">
+					<input type="submit" value="">
+				</form> 
+			</div>
+			<div class="clearfix"> </div> 
+		</div>
+	</div>
+	<div class="footer-copy">
+		<div class="container">
+			<p>© 2017 Fit&Spa. All rights reserved.</p>
+		</div>
+	</div>
+	<!-- //footer -->    
+	<!-- start-smooth-scrolling -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>	
+	<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+			
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+	</script>
+	<!-- //end-smooth-scrolling -->	
+	<!-- smooth-scrolling-of-move-up -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script>
+	<!-- //smooth-scrolling-of-move-up -->  
+	<!-- jarallax effect -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<script src="js/jarallax.js"></script> 
+	<script type="text/javascript">
+		/* init Jarallax */
+		$('.jarallax').jarallax({
+			speed: 0.5,
+			imgWidth: 1366,
+			imgHeight: 768
+		})
+	</script>   
+	<!-- //jarallax effect -->
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+</body>
+</html>
+
+
+
+--------
+
+old <resources class="html">
+
+
+</resources>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>MoMFiT | Resources</title> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Fit&Spa Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+<link href="css/style.css" type="text/css" rel="stylesheet" media="all"> 
+<link href="css/font-awesome.css" rel="stylesheet">   <!-- font-awesome icons --> 
+<link href="css/wickedpicker.css" rel="stylesheet" type='text/css' media="all" />  <!-- time-picker-CSS -->
+<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- Calendar-CSS -->
+<!-- //Custom Theme files -->
+<!-- js -->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<!-- //js -->
+<!-- web-fonts -->
+<link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!-- //web-fonts --> 
+</head> 
+	<!-- banner --> 
+	<div class="jarallax about-w3banner">    
+		<!-- header --> 
+		<div class="w3header">
+			<div class="container">
+				<nav class="navbar navbar-default">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<h1><a  href="index.html"> momfit </a></h1> 
+					</div>
+					<!-- navbar-header -->
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="lifestyle.html">Fitness / Lifestyle</a></li> 
+							<li><a href="childcare.html">Childcare</a></li>
+							<li><a href="contact.html">Time Management Tools</a></li>
+							<li><a href="resources.html" class="active">Resources and support</a></li>
+							<li><a href="contact.html">SHE - Insights</a></li>
+						</ul> 
+						<div class="clearfix"> </div>	
+					</div>
+				</nav>
+			</div>  
+		</div>
+		<!-- //header -->   
+	</div>	 
+	<!-- //banner --> 
+	<!-- web icons -->
+	<div id="exerciseChart">
+    <script src="script.js"></script>
+    </div>
+   
+									
+	<!-- footer -->
+	<div class="footer-copy">
+		<div class="container">
+			<p>© 2023 Made with ❤️ by <text style="color:rgb(239, 167, 60);">MomFit</text> team</p>
+		</div>
+	</div>
+	<!-- //footer -->  
+	<!-- start-smooth-scrolling -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>	
+	<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+			
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+	</script>
+	<!-- //end-smooth-scrolling -->	
+	<!-- smooth-scrolling-of-move-up -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script>
+	<!-- //smooth-scrolling-of-move-up -->  
+	<!-- jarallax effect -->
+	<script src="js/SmoothScroll.min.js"></script>
+	<script src="js/jarallax.js"></script> 
+	<script type="text/javascript">
+		/* init Jarallax */
+		$('.jarallax').jarallax({
+			speed: 0.5,
+			imgWidth: 1366,
+			imgHeight: 768
+		})
+	</script>   
+	<!-- //jarallax effect -->
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap.js"></script>
+</body>
+</html>
+
+
+
+
+<!-- dashboard -->
+
+<div id="container"></div>
+  
+<!-- 
+	// data for the charts 
+	  // [drinksData -> exercisesData]
+	  /* The exercisesData variable contains a data set for a fitness dashboard that tracks different 
+	  	 types of exercises and their associated metrics. The data is structured as follows:
+
+			The first column contains the name of the exercise (as a string)
+			The second column contains the percentage of users who reported that they enjoy the exercise (as a number)
+			The third column contains the percentage of users who reported that they find the exercise challenging (as a number)
+			The fourth column contains the percentage of users who reported that they have seen improvements in their fitness levels due to the exercise (as a number)
+			The fifth column contains the percentage of users who reported that the exercise is part of their regular fitness routine (as a number)
+			The sixth column contains the average number of minutes that users spend on the exercise per session (as a number)
+			The six types of exercises and their order in the data are:
+
+			Yoga
+			Running
+			Swimming
+			Cycling
+			Strength training
+			Walking 
+			
+		Here is a breakdown of the data for each exercise:
+
+			- Yoga: 20% of users enjoy it, 60% find it challenging, 10% have seen improvements, 5% do it regularly, and the average session lasts 200 minutes.
+			- Running: 45% of users enjoy it, 40% find it challenging, 15% have seen improvements, 7% do it regularly, and the average session lasts 150 minutes.
+			- Swimming: 30% of users enjoy it, 55% find it challenging, 25% have seen improvements, 8% do it regularly, and the average session lasts 100 minutes.
+			- Cycling: 35% of users enjoy it, 30% find it challenging, 40% have seen improvements, 9% do it regularly, and the average session lasts 120 minutes.
+			- Strength training: 50% of users enjoy it, 15% find it challenging, 35% have seen improvements, 6% do it regularly, and the average session lasts 180 minutes.
+			- Walking: 25% of users enjoy it, 50% find it challenging, 25% have seen improvements, 4% do it regularly, and the average session lasts 250 minutes.
+			*/
+ -->
+  <script>
+
+    anychart.onDocumentReady(function () {
+	// set chart theme
+anychart.theme('lightEarth');
+      // variable to help us define screen proportions
+      var screenRatio;
+
+      var exercisesData = anychart.data.set([
+			['Yoga', 20, 60, 10, 5, 200],
+			['Running', 45, 40, 15, 7, 150],
+			['Swimming', 30, 55, 25, 8, 100],
+			['Cycling', 35, 30, 40, 9, 120],
+			['Strength Training', 50, 15, 35, 6, 180],
+			['Walking', 25, 50, 25, 4, 250]
+		]);
+
+	  // [previousYearsData -> previousYearsData]
+	  // The previousYearsData variable contains a data set for a fitness dashboard. 
+	  // The data represents the average number of minutes spent on four types of exercises per day for 
+	  // the years 2010 to 2015. The four types of exercises and their order in the data are:
+
+			/* Cardio
+			Strength training
+			Stretching
+			Yoga
+			
+			The data is structured as follows:
+
+			The first column contains the year (as a string)
+			The second column contains the average number of minutes spent on cardio exercise per day (as a number)
+			The third column contains the average number of minutes spent on strength training per day (as a number)
+			The fourth column contains the average number of minutes spent on stretching per day (as a number)
+			The fifth column contains the average number of minutes spent on yoga per day (as a number) */
+
+      var previousYearsData = anychart.data.set([
+		['2010', 60, 176, 35, 25],
+		['2011', 51, 136, 25, 26],
+		['2012', 73, 196, 35, 38],
+		['2013', 84, 315, 43, 41],
+		['2014', 79, 203, 36, 33],
+		['2015', 89, 286, 41, 48]
+		]);
+
+      // set default using the theme
+      var dashboardTheme = {
+        chart: {
+          margin: 0,
+          padding: [15, 30, 15, 15],
+          title: {
+            enabled: true,
+            fontColor: '#212121',
+            fontSize: 13,
+            padding: [0, 0, 10, 0]
+          },
+          defaultXAxisSettings: {
+            title: {
+              enabled: false,
+              fontSize: 12,
+              margin: 0,
+              padding: [3, 0, 0, 0]
+            },
+            labels: { fontSize: 11, padding: [0, 0, 0, 0] }
+          },
+          defaultYAxisSettings: {
+            title: {
+              enabled: true,
+              fontSize: 12,
+              margin: 0,
+              padding: [0, 0, 3, 0]
+            },
+            labels: { fontSize: 11, padding: [0, 0, 0, 0] }
+          }
+        }
+      };
+
+      // apply the theme
+      anychart.theme(dashboardTheme);
+
+      // create stage for all charts
+      var stage = acgraph.create('container');
+
+      var title = anychart.standalones.title();
+      title.text('Post Partum Women Exercise statistics');
+      title.container(stage).draw();
+
+      var pieChart = anychart.pie(exercisesData);
+      pieChart.title('Exercise');
+      pieChart.legend().enabled(false);
+      pieChart.labels().position('outside').fontSize(10).format('{%x}');
+      pieChart.tooltip().format('{%Value}% of user enjoy {%x}');
+      pieChart.container(stage).draw();
+	
+      var barChart = anychart.bar();
+      barChart.title('Exercises by % who enjoy and find it challenging');
+      barChart.bar(drinksData.mapAs({ value: 3, x: 0 })).name('% of people find it challenging');
+      barChart.bar(drinksData.mapAs({ value: 2, x: 0 })).name('% of people who enjoy');
+      barChart.yAxis().title('% of people from the pie chart');
+      barChart.container(stage).draw();
+
+      var scatterChart = anychart.bubble();
+      scatterChart.title('Improvements, Regularisation and Duration spent');
+      scatterChart.bubble(
+        drinksData.mapAs({
+          value: 4,
+          x: 5,
+          size: 1,
+          name: 0
+        })
+      );
+      scatterChart.tooltip().titleFormat('{%Name}');
+      scatterChart
+        .tooltip()
+        .format('% of people who sawe improvements: {%value}\n% of people who made this exercise regular: {%x}.\nAvg Duration spent: {%size} minutes');
+      scatterChart.yScale().minimum(0).maximum(15);
+      scatterChart.yAxis().title('Volume (ml)');
+      scatterChart.xAxis().title('Price, $');
+      scatterChart.container(stage).draw();
+
+      var lineChart = anychart.line(
+        previousYearsData.mapAs({ value: 1, x: 0 })
+      );
+      lineChart.title('Average duration in minutes spent in CARDIO per woman');
+      lineChart.tooltip().format('{%value} minutes');
+      lineChart.yAxis().title('Duration in minutes');
+      lineChart.container(stage).draw();
+
+      var areaChart = anychart.area(
+        previousYearsData.mapAs({ value: 2, x: 0 })
+      );
+
+      areaChart.title('Average duration in minutes spent in STRENGTH training per woman');
+      areaChart.tooltip().format('{%value} minutes');
+      areaChart.yAxis().title('Duration in minutes');
+      areaChart.container(stage).draw();
+
+      var columnChart = anychart.column();
+      columnChart.title('Average duration in minutes spent in STRETCHING & YOGA per woman');
+      columnChart.yAxis().title('Duration in minutes');
+      columnChart
+        .column(previousYearsData.mapAs({ value: 3, x: 0 }))
+        .name('stretching');
+      columnChart
+        .column(previousYearsData.mapAs({ value: 4, x: 0 }))
+        .name('yoga');
+      columnChart.yAxis().title('Duration in minutes');
+      columnChart.container(stage).draw();
+
+      // chart placement
+      function configureChartsSize() {
+        if (window.innerWidth > 768) {
+          screenRatio = 'wide';
+          pieChart.bounds(0, 30, '33.3%', '47%');
+          barChart.bounds('33.3%', 30, '33.3%', '47%');
+          scatterChart.bounds('66.6%', 30, '33.3%', '47%');
+          lineChart.bounds(0, '52%', '33.3%', '47%');
+          areaChart.bounds('33.3%', '52%', '33.3%', '47%');
+          columnChart.bounds('66.6%', '52%', '33.3%', '47%');
+        } else {
+          screenRatio = 'slim';
+          pieChart.bounds(0, 30, '50%', '33.3%');
+          barChart.bounds('50%', 30, '50%', '33.3%');
+          scatterChart.bounds(0, '33.3%', '50%', '33.3%');
+          lineChart.bounds('50%', '33.3%', '50%', '33.3%');
+          areaChart.bounds(0, '66.6%', '50%', '33.3%');
+          columnChart.bounds('50%', '66.6%', '50%', '33.3%');
+        }
+      }
+
+      configureChartsSize();
+
+      // On resize change layout to mobile version or otherwise
+      window.onresize = function () {
+        if (screenRatio === 'slim' && window.innerWidth > 767) {
+          configureChartsSize('wide');
+        } else if (window.innerWidth <= 767) {
+          configureChartsSize('slim');
+        }
+        title.parentBounds(0, 0, stage.width(), 130).draw();
+      };
+    });
+  
+</script>
