@@ -18,8 +18,6 @@ MoMFiT is a groundbreaking web platform designed to support pregnant and postpar
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MoMFiT&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MoMFiT&icon=0&color=11)](https://visitcount.itsvg.in)
