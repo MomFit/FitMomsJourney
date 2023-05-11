@@ -1,7 +1,7 @@
 # MoMFiT
 
 
-# 💫 About Me:
+# 💫 About Us:
 MoMFiT is a groundbreaking web platform designed to support pregnant and postpartum women in their journey to physical fitness and wellness. Our mission is to create an empowering, user-friendly, and highly effective online space for women to navigate their fitness journey during and after pregnancy.<br><br>🌟 Features:<br><br>💪 Personalised workout plans tailored to pregnant and postpartum women<br>🥗 Nutritional guidance and healthy recipe suggestions (Idea - yet to discuss)<br>📈 Progress tracking and goal setting<br>⧟   connected amenities (Gym, Hospitals) in the walking path.<br>📚 Articles and resources on pregnancy and postpartum fitness<br><br><br>🌎 Prerequisites:<br><br>A modern web browser (e.g., Chrome, Firefox, Safari, Edge)<br><br>📖 Usage:<br><br>Visit the MoMFiT website to access various features<br><br>📄 License<br><br>This project is licensed under the MIT License - see the LICENSE file for details.<br><br>💜 Acknowledgments<br><br>Thank you to our mentors and teammates for their invaluable input and collaboration throughout the development process.<br><br>
 
 
