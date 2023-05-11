@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Personalized Workout Planner</title>
+    <script src="map.js" defer></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1>Personalized Workout Planner</h1>
+        <p>Welcome to the Personalized Workout Planner! Fill out the form below to generate a workout plan tailored to your pregnancy or postpartum stage, preferences, and goals.</p>
+        <form id="workout-form">
+            <!-- User input section -->
+            <div class="input-section">
+                <!-- Stage of pregnancy or postpartum period -->
+                <label for="stage">Stage:</label>
+                <select id="stage" name="stage">
+                    <option value="pregnancy1">First Trimester</option>
+                    <option value="pregnancy2">Second Trimester</option>
+                    <option value="pregnancy3">Third Trimester</option>
+                    <option value="postpartum1">0-3 Months Postpartum</option>
+                    <option value="postpartum2">3-6 Months Postpartum</option>
+                    <option value="postpartum3">6+ Months Postpartum</option>
+                </select>
+
+                <!-- Preferred workout days per week -->
+                <label for="workout-days">Workout Days per Week:</label>
+                <input type="number" id="workout-days" name="workout-days" min="1" max="7">
+
+                <!-- Desired workout duration -->
+                <label for="workout-duration">Workout Duration (minutes):</label>
+                <input type="number" id="workout-duration" name="workout-duration" min="15" max="120">
+
+                <!-- Preferred workout intensity -->
+                <label for="intensity">Workout Intensity:</label>
+                <select id="intensity" name="intensity">
+                    <option value="low">Low</option>
+                    <option value="moderate">Moderate</option>
+                    <option value="high">High</option>
+                </select>
+
+                <!-- Exercise preferences -->
+                <label for="exercise-preferences">Exercise Preferences:</label>
+                <select multiple id="exercise-preferences" name="exercise-preferences">
+                    <option value="cardio">Cardio</option>
+                    <option value="strength">Strength Training</option>
+                    <option value="stretching">Stretching</option>
+                    <option value="yoga">Yoga</option>
+                    <option value="pilates">Pilates</option>
+                </select>
+
+                <!-- Special considerations or restrictions -->
+                <label for="restrictions">Special Considerations/Restrictions:</label>
+                <input type="text" id="restrictions" name="restrictions" placeholder="e.g. low back pain, pelvic instability">
+            </div>
+            <!-- Submit button -->
+            <button type="submit">Generate Workout Plan</button>
+        </form>
+        <!-- Workout plan display -->
+        <div class="workout-display">
+            <!-- Generated workout plan will be displayed here -->
+        </div>
+        <!-- Exercise demonstrations -->
+        <div class="exercise-demos">
+            <!-- Exercise demonstration videos or images will be displayed here -->
+        </div>
+    </div>
+</body>
+</html>

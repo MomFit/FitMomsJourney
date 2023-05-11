@@ -1,0 +1,76 @@
+
+
+.workout-container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+  }
+  
+  .input-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  
+  /* Add custom styling for the input fields here */
+  
+  button {
+    font-size: 1.2rem;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .workout-display {
+    margin-top: 3rem;
+    padding: 1rem;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .exercise-demos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+    margin-top: 2rem;
+  }
+  
+  /* Add custom styling for exercise demonstration videos or images here */
+  .day-container {
+    margin-bottom: 1rem;
+  }
+  
+  .day-container h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .day-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .day-container li {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  

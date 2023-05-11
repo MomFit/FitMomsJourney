@@ -1,0 +1,95 @@
+form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* add max-width to the form */
+    margin: 0 auto; /* center the form */
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="submit"] {
+    width: 100%;
+    background-color: #36A2EB;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #1e87d0;
+  }
+  
+  canvas {
+    margin-top: 30px;
+  }
+  
+  #suggestions {
+    padding: 20px;
+    background-color: #fff;
+    max-width: 600px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+  }
+  
+  #suggestions h3 {
+    margin-top: 0;
+  }
+  
+  #suggestions p {
+    margin-bottom: 10px;
+  }
+
+  .chart-container-form {
+    max-width: 600px; /* same as the form */
+    max-height: 600px;
+    margin: 0 auto; /* center the container */
+    padding-top: 50px; /* add some space between the form and the container */
+}
+
+/* Fade-in animation for the form and chart container */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+form, .chart-container-form {
+    animation: fadeIn 1s ease-out;
+}
+
+/* Animate the input fields when focused */
+input[type="number"]:focus {
+    border-color: #36A2EB;
+    box-shadow: 0 0 5px rgba(54, 162, 235, 0.5);
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+/* Add hover effect to the submit button */
+input[type="submit"]:hover {
+    background-color: #1e87d0;
+    box-shadow: 0 0 5px rgba(54, 162, 235, 0.5);
+    transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
